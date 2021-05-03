@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borjaruata
 - 👀 I’m interested in web developing 🌐 machine learning 👨🏻‍💻 and videogames 👾
-- 🌱 I’m currently learning computer vision 👁
+- 🌱 I’m currently learning cybersecurity 🛡️
 - 💞️ I’m looking to collaborate on many projects 🚀
 - 📫 How to reach me: via email @ borjaruata@gmail.com 📧
 
